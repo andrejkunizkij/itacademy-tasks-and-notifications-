@@ -1,5 +1,5 @@
 
-/*
+
 setTimeout(function() { 
 document.body.style.display = 'block'; 
 }, 5000); 
@@ -7,7 +7,7 @@ window.onload = function() {
 document.body.style.display = 'none'; 
 }; 
 
-*/
+
 
 
 
